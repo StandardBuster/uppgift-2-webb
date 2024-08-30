@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+
+    font-size: 1.6rem;
+
+    font-family: Helvetica;
+
+}
+
+
+header {
+    background-color: blue;
+    padding-block: 2rem;
+    padding-inline: 1rem;
+}
+
+section {
+    background-color: goldenrod;
+}
+
+.primary-navigation {
+       display: flex;
+
+       gap: 1rem;
+
+    list-style: none;
+        color: brown;
+}
